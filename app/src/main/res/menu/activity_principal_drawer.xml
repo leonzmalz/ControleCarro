@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/nav_conecta" android:icon="@mipmap/ic_action_conecta"
+            android:title="Conectar Bluetooth" />
+        <item android:id="@+id/nav_desconecta" android:icon="@mipmap/ic_action_desconecta"
+            android:title="Desconectar Bluetooth" />
+    </group>
+
+</menu>
